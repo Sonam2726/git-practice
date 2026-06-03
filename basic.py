@@ -1,5 +1,3 @@
 print("hello everyone")
 print("this is git practice repo")
 print("git ")
-print("new line ")
-print("demo branch")
